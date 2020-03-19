@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 02 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
@@ -31,6 +31,15 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+    <item>
+      <title>Depreciation for Dummies</title>
+      <link>/post/depreciation-for-dummies/</link>
+      <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/depreciation-for-dummies/</guid>
+      <description>Did you know that the United States tax-code-makers are actually not the worst? Did you know that they aren’t trying to squeeze you out for everything you are worth? Did you know that they actually want you to build families, be independent, and get an advanced education? Honestly, I didn’t! But through a project that I am currently working on, I have come to find out that they have created and allowed innumerable ways for Americans to save money, and even incentivize certain things like getting married, having children, going to school, preparing for retirement, and starting a business?</description>
     </item>
     
     <item>

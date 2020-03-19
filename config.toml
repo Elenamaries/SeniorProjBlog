@@ -15,8 +15,6 @@ paginate = 10
   # Shown in the home page
   subtitle = "MATH499R"
   brand = "Blackburn"
-  googleAnalytics = "Your Google Analytics tracking ID"
-  disqus = "Your Disqus shortname"
   # CSS name for highlight.js
   highlightjs = "androidstudio"
   dateFormat = "02 Jan 2006, 15:04"
