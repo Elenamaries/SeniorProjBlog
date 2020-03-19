@@ -1,0 +1,31 @@
+---
+title: Guide to Staplr
+author: Elena Juarez
+date: '2020-03-19'
+slug: guide-to-staplr
+categories: []
+tags: []
+description: ''
+topics: []
+---
+
+
+
+<p>If you are looking to manipulate PDF files with R, you are in luck. There is a package called Staplr that allows you to combine PDFs, remove pages, and even fill in a PDF.<br />
+(See documentation at: <a href="https://pridiltal.github.io/staplr/" class="uri">https://pridiltal.github.io/staplr/</a> )</p>
+<ul>
+<li>Make sure that you have something called “pdftk” installed, or else this package will not work correctly.</li>
+</ul>
+<p>You can “staple” or combine 2+ PDFs into one file is to use the staplr::staple_pdf() command.</p>
+<p>An easy way to do this is by creating a folder where the PDFs are that you want to combine, and set it to a variable (pdf_files in my case). Then specify what you want the new file to be named (TaxPacket.pdf in my case). ￼</p>
+<div class="figure">
+<img src="/post/2020-03-19-guide-to-staplr_files/Screen%20Shot%202020-03-19%20at%202.09.01%20PM.png" />
+
+</div>
+<p>As shown above, you can also remove pages with the staplr::remove_pages() command. Just specify which pages you would like gone.</p>
+<p>Another feature of Staplr, is filling in a PDF. Just use staplr::get_fields() , and staplr::set_fields() .</p>
+<div class="figure">
+<img src="/post/2020-03-19-guide-to-staplr_files/Screen%20Shot%202020-03-19%20at%203.24.21%20PM.png" />
+
+</div>
+<p>￼ The result is a filled in field! Continue setting any fields you want filled in, and then set it once using the staplr::set_fields() command. Don’t be afraid to give it a go! It is amazing what this package can do.</p>

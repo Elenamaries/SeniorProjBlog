@@ -13,6 +13,17 @@
     
     
     <item>
+      <title>Guide to Staplr</title>
+      <link>/post/guide-to-staplr/</link>
+      <pubDate>Thu, 19 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/guide-to-staplr/</guid>
+      <description>If you are looking to manipulate PDF files with R, you are in luck. There is a package called Staplr that allows you to combine PDFs, remove pages, and even fill in a PDF.
+(See documentation at: https://pridiltal.github.io/staplr/ )
+ Make sure that you have something called “pdftk” installed, or else this package will not work correctly.  You can “staple” or combine 2+ PDFs into one file is to use the staplr::staple_pdf() command.</description>
+    </item>
+    
+    <item>
       <title>The Gospel of Gaussian</title>
       <link>/post/the-gospel-of-gaussian/</link>
       <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
