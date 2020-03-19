@@ -12,7 +12,7 @@ topics: []
 As someone who has taken a number of college-level statistics classes (and quite enjoyed them), I took them as I was given, and I accepted the general principles as gospel. I have since found out, that how statistics, probability, and risk are taught, and what I believed to be “truth” and a surety, is actually just another hypothesis (ironic, right?). We are taught that nothing is 100%, but I never thought (or was taught) to question and be skeptical of how “modern-day” statistics and probability is used. 
 
 
-Reading “The Black Swan” by Blah Blah opened my eyes about how the Gaussian Bell Curve is the gospel truth, as far as statistics goes, but is that right? 
+Reading “The Black Swan” by Nassim Nicholas Taleb opened my eyes about how the Gaussian Bell Curve is the gospel truth, as far as statistics goes, but is that right? 
 Does the average really matter? What does that tell us that we already Dont know? Shouldn’t we be investigating why the outliers happened, or *how* they happened? Wouldn’t that tell us more about what is possible, and show us the scope?
 
 
